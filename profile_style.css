@@ -1,0 +1,54 @@
+body{ 
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+img{
+    width: 2vw;
+    height: 20vw;
+}
+
+.card-title{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+.container1{
+  margin-top: 12vh;
+}
+
+.card{
+    border-color: red;
+}
+
+ul li{
+    background-color: rgba(0, 0, 0, 0.952) !important;
+    color:white !important;
+    border-color: burlywood !important;
+}
+
+.card-body{
+    background-color:black;
+}
+
+.btn1{
+    margin-right: 0.8vw;
+}
+
+@media only screen and (max-width: 1000px) {
+   img{
+    height: 50vw;
+   }
+   .container1{
+    margin-top: 12vh;
+  }
+}
+
+ 
+
+ 
+ 
+  
