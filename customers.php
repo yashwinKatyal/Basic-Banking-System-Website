@@ -19,7 +19,7 @@
         <th>NAME</th>
         <th>ACCOUNT NUMBER</th>
         <th>EMAIL ID</th>
-        <th>MOBLIE NUMBER</th>
+        <th>MOBILE NUMBER</th>
         <th>BALANCE</th>
         <th>PROFILE</th>
       </thead>
